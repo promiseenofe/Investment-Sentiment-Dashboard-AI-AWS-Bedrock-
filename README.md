@@ -1,6 +1,8 @@
 # Investment Sentiment Dashboard (AI + AWS Bedrock)
 
 An AI-powered dashboard that analyzes financial news headlines using Amazon Bedrock's GenAI models, such as Claude or Titan, and classifies sentiment to assist investment decisions.
+In summary, I deployede a JavaScript-based microservices architecture using Kubernetes and Infrastructure as Code (IaC) principles to support an AI-driven application. The solution was containerized for scalability and resilience, enabling rapid deployment and automated management across environments. This kind of architecture is especially beneficial for a wealth and asset management company, as it supports real-time data processing, secure AI model orchestration, and efficient scaling—all of which are critical for delivering intelligent financial insights and maintaining robust digital infrastructure.
+
 
 ## Features
 - Node.js Express backend
